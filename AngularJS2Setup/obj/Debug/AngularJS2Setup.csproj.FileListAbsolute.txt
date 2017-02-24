@@ -1,0 +1,306 @@
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Prestige-Mac\Documents\Visual Studio 2015\Projects\z_AngularJS2Setup_26_TrueStarter_WIP\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter - Copy\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\AngularJS2Setup_Starter\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe.config
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.rsp
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csi.exe
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csi.rsp
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.AppContext.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe.config
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.rsp
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.pdb
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Razor.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Razor.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.xml
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+D:\KrishneelKumar\Downloads\Ex_Files_Angular2_NET_Developers\Exercise Files\Ch02 - Components\02_02\Start\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe.config
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\csc.rsp
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\csi.exe
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\csi.rsp
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.AppContext.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe.config
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\vbc.rsp
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
+C:\Users\kkumar\Desktop\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.exe.config
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csc.rsp
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csi.exe
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\csi.rsp
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.AppContext.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.exe.config
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\vbc.rsp
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll.config
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\AngularJS2Setup.pdb
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Razor.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Razor.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Webpages.Razor.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Helpers.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\bin\System.Web.Mvc.xml
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.csprojResolveAssemblyReference.cache
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.dll
+C:\Users\Krishneel\Documents\GitHub\AngularJS-2\AngularJS\AngularJS\AngularJS2Setup\obj\Debug\AngularJS2Setup.pdb
